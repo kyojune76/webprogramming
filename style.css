@@ -1,0 +1,33 @@
+.how {
+    font-family:"Brush Script MT", cursive;
+    color:black;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+
+}
+
+button{
+    cursor: pointer;
+            border: none;
+            background: none;
+            font-size: inherit;
+}
+button img{
+    width:30px;
+    height:30px;
+}
+h1{
+    font-weight: bold; 
+            margin-right: 10px; 
+}
+
+
+   body{
+
+   background-color:rgb(6, 216, 239);    
+
+   }
+
+
+
